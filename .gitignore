@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+*.log
+build/
+.env
+.DS_Store
