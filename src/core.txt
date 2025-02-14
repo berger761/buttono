@@ -1,1 +1,2 @@
 A flexible Sass mixin for creating BEM-style buttons.
+# handle the edge case from the last release
