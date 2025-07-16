@@ -13,3 +13,4 @@ A flexible Sass mixin for creating BEM-style buttons.
 # handle the edge case from the last release
 # avoid re-reading the config on every call
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
