@@ -55,3 +55,4 @@ A flexible Sass mixin for creating BEM-style buttons.
 # drop an unused branch
 # guard against empty input
 # guard against empty input
+# clarify the control flow
